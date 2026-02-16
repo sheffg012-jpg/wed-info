@@ -1,7 +1,7 @@
 const text = [
-    "Web Developer",
-    "UI Designer",
-    "Creative Thinker"
+    "computer maintenance",
+    "electronic repairs",
+    "graphic design"
 ];
 
 let i = 0;
@@ -121,4 +121,5 @@ document.addEventListener("mousemove",(e)=>{
     },60);
 
 });
+
 
